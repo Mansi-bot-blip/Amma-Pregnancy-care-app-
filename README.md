@@ -1,5 +1,6 @@
 # Amma-Pregnancy-care-app-
 #Android technology is getting more advance day by day and mobile is the one of the most important part of above technology. 
+
 #When  taking  about mobile nowadays android takes  largest part of the market which means android operating system based mobiles are the most used these days.
 
 #Amma pregnancy care app which is based on idea that technology how help pregnant lady in their heath .Apps interface is user friendly one can easily register and access our app.
