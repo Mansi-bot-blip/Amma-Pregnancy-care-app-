@@ -1,1 +1,6 @@
+# How to run application
 
+connect app throught same wifi network
+change its ip-addresss in mainactivity file
+commit changes.
+your app is ready to go.
